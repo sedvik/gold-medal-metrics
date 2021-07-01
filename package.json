@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha",
     "webpack": "webpack",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seedDb": "node seedDbs.js"
   },
   "author": "",
   "license": "ISC",
